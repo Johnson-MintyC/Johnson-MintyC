@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on:
   An Texas Holdem Game, to practice test driven principles
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning:
   Test Driven practices, and then graphQL and then dot net
 
 <!--
