@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on:
   An Texas Holdem Game, to practice test driven principles
 - 🌱 I’m currently learning:
-  Test Driven practices, and then graphQL and then dot net
+  Test Driven practices, .then (graphQL) .then (dot net)
+  
+  Should switch to async my learning 😂
 
 <!--
 **Johnson-MintyC/Johnson-MintyC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
