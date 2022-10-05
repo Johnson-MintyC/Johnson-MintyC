@@ -1,5 +1,10 @@
 ### Well, Hello There 👋
 
+- 🔭 I’m currently working on:
+  An Texas Holdem Game, to practice test driven principles
+- 🌱 I’m currently learning ...
+  Test Driven practices, and then graphQL and then dot net
+
 <!--
 **Johnson-MintyC/Johnson-MintyC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
